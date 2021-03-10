@@ -13,7 +13,7 @@ git remote.
 git init
 
 > Clone: Clone the repository.
-git clone [URL] > The Repository. 
+git clone [URL] > Repository.
 
 > Add: Used to add files to staging area.
 git add [NAME of the file]. > git add README.md  
