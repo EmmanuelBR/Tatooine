@@ -4,7 +4,7 @@ Repositorio de Tareas
 
 # What's the meaning of this words and what are the working of them? #
 
-local: 
+> local: Local fiels
 
 > remote: Allows you to see all remote repositories.
 git remote.
