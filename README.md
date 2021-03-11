@@ -4,7 +4,7 @@ Repositorio de Tareas
 
 # What's the meaning of this words and what are the working of them? #
 
-local: 
+> local: Local fiels
 
 > remote: Allows you to see all remote repositories.
 git remote.
@@ -13,7 +13,7 @@ git remote.
 git init
 
 > Clone: Clone the repository.
-git clone [URL] > The Repository. 
+git clone [URL] > Repository.
 
 > Add: Used to add files to staging area.
 git add [NAME of the file]. > git add README.md  
