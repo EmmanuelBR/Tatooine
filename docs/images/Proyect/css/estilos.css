@@ -174,7 +174,7 @@
     margin-top: 50px;
     position: relative;
     border-radius: 20px;
-    height: 650px;
+    height: 800px;
 }
 
 .close {
@@ -295,7 +295,7 @@
 }
 
 .imagestext img:hover {
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 
 /* <--- Footer y Iconos de Redes Sociales ---> */
